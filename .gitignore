@@ -1,0 +1,12 @@
+### JS ###
+node_modules/
+package-lock.json
+deploy/
+
+### OS ###
+*.swp
+.DS_Store
+.vscode
+
+### LOG ###
+*.log
